@@ -1,0 +1,12 @@
+[satellite]
+satellite.example.com
+
+[clients]
+server8.example.com
+ServerA.example.com
+
+[rhel8]
+server8.example.com
+
+[rhel9]
+ServerA.example.com
