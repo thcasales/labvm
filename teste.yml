@@ -1,3 +1,5 @@
+- name: A very simple playbook
+  tasks:
 - name: Show a content_view
   redhat.satellite.content_view_info:
     server_url: https://satellite.example.com
